@@ -77,7 +77,7 @@
 	<footer>
 		<img src="facebook.png"><a href="https://id-id.facebook.com/">Facebook</a>
 		<img src="instagram.png"><a href="https://www.instagram.com/">Instagram</a>
-		<img src="github.png"><a href="https://github.com/AssegafInsani/1402019018_Tugas3">Github</a>
+		<img src="github.png"><a href="https://github.com/AssegafInsani/Tugas3_1402019018">Github</a>
 	</footer>
 	<script src="script.js"></script>
 </body>
