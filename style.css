@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #FF4500;
+}
+
+header {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+}
+
+header h1 {
+	color: #FF4500;
+	font-size: 40px;
+	margin-left: 15px;
+}
+
+.content {
+	background-color: black;
+	margin: 0 auto;
+	width: 50%;
+}
+
+.title, .silinder, .kerucut, .bola{
+	color: #FF4500;
+	margin-left: 15px;
+	font-family: cursive;
+
+}
+
+.title {
+	font-size: 20px;
+}
+
+.silinder p{
+	font-size: 20px;
+	display: inline-block;
+}
+
+.silinder input {
+	width: 60px;
+	height: 20px;
+}
+
+#inputJariSilin {
+	margin-left: 30px;
+}
+
+#inputTinggiSilin {
+	margin-left: 53px;
+}
+
+.silinder button {
+	float: right;
+	width: 120px;
+	height: 30px;
+	margin-right: 50px;
+}
+
+.kerucut p{
+	font-size: 20px;
+	display: inline-block;
+}
+.kerucut input {
+	width: 60px;
+	height: 20px;
+}
+
+#inputJariKerut {
+	margin-left: 60px;
+} 
+#inputgarisKerut {
+	margin-left: 20px;
+}
+#inputTinggiKerut {
+	margin-left: 83px;
+}
+
+.kerucut button {
+	float: right;
+	width: 120px;
+	height: 30px;
+	margin-right: 50px;
+}
+
+.bola p{
+	font-size: 20px;
+	display: inline-block;
+}
+.bola input {
+	width: 60px;
+	height: 20px;
+}
+
+#inputJariBola {
+	margin-left: 50px;
+}
+
+.bola button {
+	float: right;
+	width: 120px;
+	height: 30px;
+	margin-right: 50px;
+}
+
+footer {
+	width: 100%;
+	height: 50px;
+	background-color: white;
+	text-align: right;
+}
+
+footer img{
+	width:35px;
+	height:35px;
+	margin-right: 2px;
+	margin-top: 10px;
+}
+
+footer a {
+	color: black;
+	font-family: cursive;
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 10px;
+}
+
+
+
